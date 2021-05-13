@@ -1,5 +1,5 @@
-token: "Gb3gE7Q9uaf7aeSo"    # Lichess OAuth2 Token.
-url: "https://live.chess-online.com/"  # Lichess base URL.
+token:     # Lichess OAuth2 Token.
+url: "  # Lichess base URL.
 
 engine:                      # engine settings
   dir: "./"                  # dir containing engines, relative to this project
